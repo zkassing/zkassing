@@ -9,7 +9,7 @@ I'm YouKuan, a front-end developer.
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
-  ![Vue](https://img.shields.io/badge/-Vue-cf408d?style=plastic&logo=Vue.js)
+  ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=plastic&logo=Vue.js)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - ⚙️ I also use and work:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -18,7 +18,7 @@ I'm YouKuan, a front-end developer.
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
-  ![Nest.JS](https://img.shields.io/badge/-Nest.JS-E10098?style=plastic&logo=Nest.JS)
+  ![Nest.JS](https://img.shields.io/badge/-Nest.JS-E0234e?style=plastic&logo=NestJS)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
 
