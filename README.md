@@ -21,7 +21,6 @@ I'm YouKuan, a front-end developer.
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-E0234e?style=plastic&logo=NestJS)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=plastic&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=MySql)
-- ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=zkassing)
