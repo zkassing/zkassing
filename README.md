@@ -17,9 +17,10 @@ I'm YouKuan, a front-end developer.
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=plastic&logo=sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=plastic&logo=Node.js)
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-E0234e?style=plastic&logo=NestJS)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=plastic&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=MySql)
 - ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
 
 
