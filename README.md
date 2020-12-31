@@ -9,7 +9,7 @@ I'm YouKuan, a front-end developer.
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
-  ![Vue](https://img.shields.io/badge/-Vue-41b883?style=plastic&logo=Vue)
+  ![Vue](https://img.shields.io/badge/-Vue-cf408d?style=plastic&logo=Vue.js)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - ⚙️ I also use and work:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
